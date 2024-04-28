@@ -1,1 +1,1 @@
-# sjcc-cis24c
+## This is an introductory python course done in San Jose City College. 
