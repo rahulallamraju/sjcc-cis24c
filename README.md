@@ -1,1 +1,1 @@
-## This is an introductory python course done in San Jose City College. 
+## This is an Introductory Python Course I did in San Jose City College - Spring '24
